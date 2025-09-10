@@ -1,14 +1,15 @@
 {
-    "printWidth": 120,
-    "tabWidth": 4,
-    "trailingComma": "all",
-    "arrowParens": "avoid",
-    "overrides": [
-        {
-            "files": ["*.yml", "*.yaml"],
-            "options": {
-                "tabWidth": 2
-            }
-        }
-    ]
+  "printWidth": 120,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "arrowParens": "avoid",
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": ["*.yml", "*.yaml"],
+      "options": {
+        "tabWidth": 2
+      }
+    }
+  ]
 }

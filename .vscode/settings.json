@@ -1,6 +1,6 @@
 {
-    "eslint.useFlatConfig": true,
-    "eslint.options": {
-        "overrideConfigFile": "./eslint.config.mjs"
-    }
+  "eslint.useFlatConfig": true,
+  "eslint.options": {
+    "overrideConfigFile": "./eslint.config.mjs"
+  }
 }

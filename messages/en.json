@@ -1,3 +1,23 @@
 {
-    "name": "Școala Online"
+  "name": "Online School",
+  "signin": {
+    "title": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign In",
+    "isRequired": "is required",
+    "forgot": "Forgot your password?"
+  },
+  "signup": {
+    "title": "Sign Up"
+  },
+  "forgot": {
+    "title": "Forgot Password"
+  },
+  "terms": {
+    "title": "Terms of Service"
+  },
+  "privacy": {
+    "title": "Privacy Policy"
+  }
 }

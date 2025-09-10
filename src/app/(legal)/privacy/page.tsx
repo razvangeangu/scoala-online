@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 
-export default function Home() {
+export default function Privacy() {
   const t = useTranslations();
 
-  return <main>{t('name')}</main>;
+  return <main>{t('privacy.title')}</main>;
 }
